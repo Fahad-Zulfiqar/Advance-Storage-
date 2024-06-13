@@ -13,6 +13,6 @@ To install and set up the library in the root also in frontend, run:
 $ npm install 
 
 # Usage
- ## Serving the app
+ ## Serving the site
 $ npm run dev
 
