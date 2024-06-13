@@ -4,7 +4,7 @@
 
 ## Start with cloning this repo on your local machine:
 
-$ git clone https://github.com/ORG/PROJECT.git
+$ git clone https://github.com/Fahad-Zulfiqar/AdvanceStorage.git
 
 
 $ cd PROJECT
